@@ -5,11 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Móbile na Metrópole - Educação para surdos</title>
+    <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <h1>Móbile na Metrópole - Educação para surdos</h1>
-    <a href="/index.html" >Página inicial</a>
-    <a href="/sobrenos.html" >Sobre nós</a>
-    <h2>Página inicial</h2>
+    <!-- Cabeçalho -->
+    <div>
+        <h1>Móbile na Metrópole - Educação para surdos</h1>
+        <a onclick="mudarConteudo('/abas/inicio.html')">Página inicial</a>
+        <a onclick="mudarConteudo('/abas/sobrenos.html')">Sobre nós</a>
+    </div>
+    
+    <!-- Conteúdo -->
+    <iframe id="iframe" src="/abas/inicio.html" height="100%" width="100%"></iframe>
   </body>
+  <script src="index.js"></script>
 </html>
