@@ -26,6 +26,23 @@
     background-color: dodgerblue;
 }
 
+.carousel-item {
+    background-color: gray;
+    height: 600px;
+}
+
+#slide1 {
+    margin: 200px;
+}
+
+#slide2 {
+    margin: 10px;
+}
+
+.slidebox {
+    background-color: dimgray;
+}
+
 #video-apresentacao {
     display: flex;
     justify-content: center;
