@@ -1,15 +1,23 @@
-.bg {
-   background-color:#413FE0; 
-}
-
-.bgnav {
-    background-color: dodgerblue;
+.bg1 {
+   background-color:#5E32ED; 
 }
 
 .bg2 {
-    background-color:#393861;
+    background-color:#3950FA;
 }
 
-.carousel-item {
-    height: 400px;
+.bg3 {
+    background-color:#3A85E0;
+}
+
+.bg4 {
+    background-color:#409EB8;
+}
+
+.bg5 {
+    background-color:#24A392;
+}
+
+.bgnav {
+    background-color:dodgerblue;
 }
