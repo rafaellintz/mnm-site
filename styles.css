@@ -25,3 +25,8 @@
 .bgnav {
     background-color: dodgerblue;
 }
+
+#video-apresentacao {
+    display: flex;
+    justify-content: center;
+}
