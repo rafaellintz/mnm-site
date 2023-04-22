@@ -1,29 +1,5 @@
-.bg1 {
-    background-color: #7C22D6;
-}
-
-.bg2 {
-   background-color: #5E32ED; 
-}
-
-.bg3 {
-    background-color: #3950FA;
-}
-
-.bg4 {
-    background-color: #3A85E0;
-}
-
-.bg5 {
-    background-color: #409EB8;
-}
-
-.bg6 {
-    background-color: #24A392;
-}
-
-.bgnav {
-    background-color: dodgerblue;
+.bg {
+    background-color: white;
 }
 
 .carousel-item {
