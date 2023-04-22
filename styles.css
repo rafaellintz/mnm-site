@@ -31,12 +31,28 @@
     height: 600px;
 }
 
-#slide1 {
+.slide1 {
+    margin: 250px;
+}
+
+#carousel1 .slide2 {
+    margin: 150px;
+}
+
+#carousel1 .slide3 {
     margin: 200px;
 }
 
-#slide2 {
-    margin: 10px;
+#carousel1 .slide4 {
+    margin: 125px;
+}
+
+#carousel1 .slide5 {
+    margin: 150px;
+}
+
+#carousel1 .slide6 {
+    margin: 175px;
 }
 
 .slidebox {
