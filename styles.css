@@ -2,16 +2,6 @@
     background-color: white;
 }
 
-#carousel1 .carousel-item {
-    background-color: cornflowerblue;
-    height: 600px;
-}
-
-#carousel2 .carousel-item {
-    background-color: dodgerblue;
-    height: 600px;
-}
-
 .slide1 {
     margin: 250px;
 }
@@ -43,4 +33,38 @@
 #video-apresentacao {
     display: flex;
     justify-content: center;
+}
+
+/* Bootstrap overrides */
+
+#carousel1 .carousel-item {
+    background-color: cornflowerblue;
+    height: 600px;
+}
+
+#carousel2 .carousel-item {
+    background-color: dodgerblue;
+    height: 600px;
+}
+
+/* Change the background color of the accordion header when collapsed */
+.accordion-button:not(.collapsed) {
+    background-color: cornflowerblue; /* Choose your desired color */
+    color: #ffffff; /* Choose your desired text color */
+}
+
+/* Change the background color of the accordion header when expanded */
+.accordion-button.collapsed {
+    background-color: cornflowerblue; /* Choose your desired color */
+    color: #ffffff; /* Choose your desired text color */
+}
+
+/* Change the background color and text color of the accordion body */
+.accordion-body {
+    background-color:royalblue; /* Choose your desired background color */
+    color: white; /* Choose your desired text color */
+}
+
+.blockquote-footer {
+    color: white;
 }
