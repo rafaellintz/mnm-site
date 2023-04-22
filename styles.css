@@ -2,8 +2,13 @@
     background-color: white;
 }
 
-.carousel-item {
-    background-color: gray;
+#carousel1 .carousel-item {
+    background-color: cornflowerblue;
+    height: 600px;
+}
+
+#carousel2 .carousel-item {
+    background-color: dodgerblue;
     height: 600px;
 }
 
