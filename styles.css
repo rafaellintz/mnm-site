@@ -39,11 +39,13 @@
 
 #carousel1 .carousel-item {
     background-color: cornflowerblue;
-    height: 600px;
 }
 
 #carousel2 .carousel-item {
     background-color: dodgerblue;
+}
+
+.carousel-item {
     height: 600px;
 }
 
