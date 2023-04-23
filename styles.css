@@ -1,80 +1,88 @@
 .bg {
-    background-color: white;
+  background-color: white;
 }
 
 .slide1 {
-    margin: 200px;
+  margin: 200px;
 }
 
 #carousel1 .slide2 {
-    margin: 100px;
+  margin: 100px;
 }
 
 #carousel1 .slide3 {
-    margin: 150px;
+  margin: 150px;
 }
 
 #carousel1 .slide4 {
-    margin: 100px;
+  margin: 100px;
 }
 
 #carousel1 .slide5 {
-    margin: 100px;
+  margin: 100px;
 }
 
 #carousel1 .slide6 {
-    margin: 145px;
+  margin: 145px;
 }
 
 .slidebox {
-    background-color: dimgray;
+  background-color: dimgray;
 }
 
 #video-apresentacao {
-    display: flex;
-    justify-content: center;
+  display: flex;
+  justify-content: center;
 }
 
-#nav a:link { text-decoration: none; }
+#nav a:link {
+  text-decoration: none;
+}
 
-#nav a:visited { text-decoration: none; }
+#nav a:visited {
+  text-decoration: none;
+}
 
-#nav a:hover { text-decoration: none; }
+#nav a:hover {
+  text-decoration: none;
+}
 
-#nav a:active { text-decoration: none; }
+#nav a:active {
+  text-decoration: none;
+}
 
 /* Bootstrap overrides */
 
 #carousel1 .carousel-item {
-    background-color: cornflowerblue;
+  background-color: cornflowerblue;
 }
 
 #carousel2 .carousel-item {
-    background-color: dodgerblue;
+  background-color: dodgerblue;
 }
 
 .carousel-item {
-    height: 500px;
+  height: 500px;
 }
 
 /* Change the background color of the accordion header when collapsed */
 .accordion-button:not(.collapsed) {
-    background-color: cornflowerblue; /* Choose your desired color */
-    color: #ffffff; /* Choose your desired text color */
+  background-color: cornflowerblue; /* Choose your desired color */
+  color: #ffffff; /* Choose your desired text color */
 }
 
 /* Change the background color of the accordion header when expanded */
 .accordion-button.collapsed {
-    background-color: cornflowerblue; /* Choose your desired color */
-    color: #ffffff; /* Choose your desired text color */
+  background-color: cornflowerblue; /* Choose your desired color */
+  color: #ffffff; /* Choose your desired text color */
 }
 
 /* Change the background color and text color of the accordion body */
 .accordion-body {
-    background-color:royalblue; /* Choose your desired background color */
-    color: white; /* Choose your desired text color */
+  background-color: royalblue; /* Choose your desired background color */
+  color: white; /* Choose your desired text color */
 }
 
 .blockquote-footer {
-    color: white;
+  color: white;
 }
