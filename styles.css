@@ -35,6 +35,14 @@
     justify-content: center;
 }
 
+#nav a:link { text-decoration: none; }
+
+#nav a:visited { text-decoration: none; }
+
+#nav a:hover { text-decoration: none; }
+
+#nav a:active { text-decoration: none; }
+
 /* Bootstrap overrides */
 
 #carousel1 .carousel-item {
