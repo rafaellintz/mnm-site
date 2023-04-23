@@ -51,6 +51,10 @@
   text-decoration: none;
 }
 
+.justify {
+  text-align: justify;
+}
+
 /* Bootstrap overrides */
 
 #carousel1 .carousel-item {
