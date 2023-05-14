@@ -26,10 +26,6 @@
   margin: 145px;
 }
 
-.slidebox {
-  background-color: dimgray;
-}
-
 .video {
   display: flex;
   justify-content: center;
