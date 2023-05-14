@@ -13,15 +13,12 @@
 }
 
 body {
+  background-color: #eae8e8;
   font-family: "Avenir Next Condensed Regular", sans-serif;
 }
 
 .page-title {
   font-family: "Voltaire", sans-serif;
-}
-
-.bg {
-  background-color: #eae8e8;
 }
 
 .slide1 {
