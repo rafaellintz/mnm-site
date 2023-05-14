@@ -57,6 +57,13 @@
 
 /* Bootstrap overrides */
 
+.carousel-caption {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 1200px;
+}
+
 #carousel1 .carousel-item {
   background-color: cornflowerblue;
 }
