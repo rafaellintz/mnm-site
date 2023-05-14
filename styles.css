@@ -1,3 +1,25 @@
+@font-face {
+  font-family: "Avenir Next Condensed Regular";
+  src: url("fonts/Avenir-Next-Condensed/AvenirNextCondensed-Regular.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Avenir Next Condensed Medium";
+  src: url("fonts/Avenir-Next-Condensed/AvenirNextCondensed-Medium.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "Avenir Next Condensed Regular", sans-serif;
+}
+
+.page-title {
+  font-family: "Voltaire", sans-serif;
+}
+
 .bg {
   background-color: #eae8e8;
 }
@@ -29,6 +51,10 @@
 .video {
   display: flex;
   justify-content: center;
+}
+
+#nav span {
+  font-family: "Avenir Next Condensed Medium", sans-serif;
 }
 
 #nav a {
