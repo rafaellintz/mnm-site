@@ -30,7 +30,7 @@
   background-color: dimgray;
 }
 
-#presentation-video {
+.video {
   display: flex;
   justify-content: center;
 }
